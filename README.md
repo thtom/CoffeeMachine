@@ -1,2 +1,2 @@
 # CoffeeMachine
-CoffeeMachine project
+CoffeeMachine project from JetBrains Academy
